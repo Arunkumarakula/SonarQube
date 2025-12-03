@@ -18,7 +18,7 @@ pipeline {
             steps {
                 deleteDir()
                 git branch: 'Develop',
-                    url: 'https://github.com/arunkumarakula/mfit-be-scheduling-service.git',
+                    url: 'https://github.com/arunkumarakula/-scheduling-service.git',
                     credentialsId: 'my-token'
             }
         }
