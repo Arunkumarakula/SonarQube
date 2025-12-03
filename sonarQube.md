@@ -130,7 +130,7 @@ many code smells, Duplications. This prevents bad code from reaching staging or 
 
   Add:
 
-  * SonarQube server URL: [http://3.7.49.8:9000](http://3.7.49.8:9000)
+  * SonarQube server URL: [http://3.7.48.8:9000](http://3.7.48.8:9000)
   * Authentication token
   * Server name: SonarQube
 
